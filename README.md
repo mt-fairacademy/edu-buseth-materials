@@ -1,1 +1,1 @@
-# ed-buseth-materials
+# edu-buseth-materials
